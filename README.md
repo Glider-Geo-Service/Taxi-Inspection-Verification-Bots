@@ -1,4 +1,4 @@
-# 🚖 Glider Taxi Inspection Verification Bot Solution
+# 🪂 Glider 🚖 Taxi 🕵 Inspection ✅ Verification 🤖 Bot 💡 Solution
 
 In 🇧🇾 **Belarus**, taxi drivers must complete a **🩺 Medical Inspection** (for the driver) and a **🔧 Technical Inspection** (for the vehicle) before starting their shifts. The **📡 Dispatcher Platform** connects drivers with passengers, while **🏢 Taxi Parks** (back-office administration) manage operations and compliance.  
 
