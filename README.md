@@ -2,7 +2,7 @@
 
 In Belarus, taxi drivers must complete a **medical inspection** (for the driver) and a **technical inspection** (for the vehicle) before starting their shifts. The **dispatcher platform** connects drivers with passengers, while **taxi parks** (back-office administration) manage operations and compliance.  
 
-To ensure that only inspected drivers can access the dispatcher service, we have developed a **elegram three-bot solution** for verification.  
+To ensure that only inspected drivers can access the dispatcher service, we have developed **Telegram three-bot solution** for inspection verification.  
 
 ---
 
